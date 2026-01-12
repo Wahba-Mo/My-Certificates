@@ -27,9 +27,9 @@ These certifications were earned through official proctored examinations and acc
 
 | Training Path | Year | Verification | Document |
 | :--- | :--- | :--- | :--- |
-| **SOC Analyst Learning Path** | 2025 | [Verify Official Link](app.letsdefend.io/certificate/show/84b9d430-dbb0-4925-ad56-5c4aefcd429b) | [PDF Copy](./pdfs/LD_SOC_Analyst.pdf) |
-| **SIEM Engineer Career Path** | 2025 | [Verify Official Link](app.letsdefend.io/certificate/show/bc540752-5b96-4aea-8664-ee2450367016) | [PDF Copy](./pdfs/LD_SIEM_Engineer.pdf) |
-| **CompTIA CySA+ Prep Path** | 2025 | [Verify Official Link](app.letsdefend.io/certificate/show/84b9d430-dbb0-4925-ad56-5c4aefcd429b) | [PDF Copy](./pdfs/LD_CySA+_Prep.pdf) |
+| **SOC Analyst Learning Path** | 2025 | [Verify Official Link](https://app.letsdefend.io/certificate/show/4e0dd5c2-bfca-44d9-be89-c98a6702a7f5) | [PDF Copy](./pdfs/LD_SOC_Analyst.pdf) |
+| **SIEM Engineer Career Path** | 2025 | [Verify Official Link](https://app.letsdefend.io/certificate/show/bc540752-5b96-4aea-8664-ee2450367016) | [PDF Copy](./pdfs/LD_SIEM_Engineer.pdf) |
+| **CompTIA CySA+ Prep Path** | 2025 | [Verify Official Link](https://app.letsdefend.io/certificate/show/84b9d430-dbb0-4925-ad56-5c4aefcd429b) | [PDF Copy](./pdfs/LD_CySA+_Prep.pdf) |
 
 
 ---
